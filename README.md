@@ -51,7 +51,7 @@ Guide to use Iceberg Connector( Shown in the Glue Connector usage details ) :
         https://www.dremio.com/resources/tutorials/getting-started-with-apache-iceberg-using-aws-glue-and-dremio/
         https://docs.aws.amazon.com/athena/latest/ug/querying-iceberg.html
 
-
+Note : Add the ECR endpoint(ending with dcr) in the VPC Console. Attach the Subnet which has igW.
 # ---------------------------------
 
 Lake Formation Steps 
